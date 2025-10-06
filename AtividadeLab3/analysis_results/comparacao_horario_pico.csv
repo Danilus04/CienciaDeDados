@@ -1,0 +1,3 @@
+Consulta,Ferramenta,Tempo Médio (s),Sucesso
+Horário de pico (rank por hora),DuckDB,0.279,True
+Horário de pico (rank por hora),Pandas,3.502,True
