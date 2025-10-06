@@ -1,3 +1,3 @@
-Consulta,Ferramenta,Tempo Médio (s),Sucesso
-Top 10 zonas por receita média,DuckDB,0.072,True
-Top 10 zonas por receita média,Pandas,1.682,True
+Consulta,Ferramenta,Tempo Médio (s),Sucesso,Observacao
+Top 10 zonas por receita média,DuckDB,0.132,True,⚠️ Diferenças detectadas
+Top 10 zonas por receita média,Pandas,1.732,True,⚠️ Diferenças detectadas

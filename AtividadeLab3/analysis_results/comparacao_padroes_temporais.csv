@@ -1,3 +1,3 @@
-Consulta,Ferramenta,Tempo Médio (s),Sucesso
-Padrões temporais (mês/semana),DuckDB,0.311,True
-Padrões temporais (mês/semana),Pandas,12.673,True
+Consulta,Ferramenta,Tempo Médio (s),Sucesso,Observacao
+Padrões temporais (mês/semana),DuckDB,0.654,True,⚠️ Diferenças detectadas
+Padrões temporais (mês/semana),Pandas,20.78,True,⚠️ Diferenças detectadas

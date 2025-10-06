@@ -1,0 +1,3 @@
+Consulta,Ferramenta,Tempo Médio (s),Sucesso,Observacao
+Viagens longas vs curtas,DuckDB,0.439,True,✅ Sim
+Viagens longas vs curtas,Pandas,15.371,True,✅ Sim
