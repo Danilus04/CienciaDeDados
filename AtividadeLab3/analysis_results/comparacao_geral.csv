@@ -1,0 +1,11 @@
+Consulta,Ferramenta,Tempo Médio (s),Sucesso,Observacao
+Horário de pico (rank por hora),DuckDB,0.343,True,⚠️ Diferenças detectadas
+Horário de pico (rank por hora),Pandas,4.918,True,⚠️ Diferenças detectadas
+Padrões temporais (mês/semana),DuckDB,0.654,True,⚠️ Diferenças detectadas
+Padrões temporais (mês/semana),Pandas,20.78,True,⚠️ Diferenças detectadas
+Top 10 zonas por receita média,DuckDB,0.132,True,⚠️ Diferenças detectadas
+Top 10 zonas por receita média,Pandas,1.732,True,⚠️ Diferenças detectadas
+Taxa média de gorjeta por borough,DuckDB,0.454,True,✅ Sim
+Taxa média de gorjeta por borough,Pandas,12.209,True,✅ Sim
+Viagens longas vs curtas,DuckDB,0.439,True,✅ Sim
+Viagens longas vs curtas,Pandas,15.371,True,✅ Sim
